@@ -1,0 +1,58 @@
+body{
+    background-color:lightskyblue
+}
+nav{
+    font-family: monospace;
+    
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: blue;
+}
+.buttom-left{
+    position: absolute;
+    bottom: 59px;
+    left: 16px;
+    font-family: sans-serif;
+    font-style: italic;
+    /* background: rgb(0, 0, 0); */
+    background: rgba(0, 0, 0, 0.5);
+    color: cyan;
+    width: 97%;
+    padding: 20px;
+    text-align: center;
+}
+.op{
+    text-align: center;
+    font-family: monospace;
+    color: white;
+    font-style: italic;
+}
+    /* width: 170px;
+    height: 100px;
+    position: relative;
+    background-color: blue;
+    animation-name: example;
+    animation-duration: 4s;
+
+}
+
+@keyframes example{
+    0% {background-color: blue; left: 0px; top: 0px;}
+    25% {background-color: cyan; left: 200px; top: 0px;}
+    50% {background-color: black; left: 200px; top: 200px;}
+    75% {background-color: pink; left: 0px; top: 200px;}
+    100% {background-color: yellow; left: 0px; top: 0px;}
+    
+} */
+.col-6{
+    text-align: center;
+}
+ h2{
+    text-align: center;
+    color: white;
+ }
+.card-title{
+    color: blue;
+}
